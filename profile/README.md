@@ -1,6 +1,6 @@
 ## JoinAI 
 
 
-JoinAI is a startup company focusing on synthetic data
+JoinAI is an AI startup focused on spatial intelligence.
 
 
